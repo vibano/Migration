@@ -1,0 +1,1 @@
+Varchar(2) = Varchar
